@@ -1,7 +1,5 @@
 # 用 10 個挑戰認識 Git
 
-![](./media/mindmap.png)
-
 1. Git 是什麼？ Git 如何幫助開發？
 2. 安裝 Git
 3. 建立你的第一個 Git Repository
