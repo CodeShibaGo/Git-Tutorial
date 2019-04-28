@@ -63,6 +63,10 @@ https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/create-with-putty
 
 產生 ssh key 的時候記得要在空白處移動滑鼠。
 
+進入 ~/.ssh 資料夾
+公鑰(public key) 另存新檔為 id_rsa.pub
+私鑰(private key) 另存新檔為 id_rsa
+
 ### Mac
 
 憑證放置位置 
