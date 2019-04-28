@@ -32,6 +32,27 @@ ssh 分為公鑰和私鑰
 
 ### Windows 
 
+#### 創建 ~/.ssh 資料夾
+
+> `~` 代表使用者目錄
+
+切換到使用者目錄
+
+```
+cd ~
+```
+
+新增 .ssh 資料夾 
+
+```
+mkdir .ssh
+```
+
+進入 ~/.ssh 資料
+
+開始產生 ssh key pair
+
+
 #### 使用 putty 產生 ssh key pair
 
 到 putty 官方網站下載 putty
