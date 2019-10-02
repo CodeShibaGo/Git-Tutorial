@@ -4,7 +4,7 @@
 
 1. 遇到問題的時候可以開 Issue
 2. 原作者覺得 ok 之後，你就 fork 一份 Repository 到自己的 github
-3. 做完之後，發一個 PR 給原作者
+3. 做完之後，發一個 PR 給原作者
 4. 原作者覺得 ok 的話，就會把你的 PR Merge 進原作者的專案。
 
 ## 現在來發你的第一個 PR 吧
@@ -60,7 +60,7 @@ git commit -m "一句你想說的話"
 
 ### step 4 - git push 把修改上傳至自己的 github
 
-完成後 `git status` 看一下狀態
+完成後 `git status` 看一下狀態
 
 沒問題的話輸入 `git push`，更新自己的 github。
 
