@@ -35,7 +35,7 @@ git clone git@github.com:你的帳號/Git-Tutorial.git
 
 複製完之後在本地端新增一個檔案名稱，某某某發第一個 PR。我的話是「hi，我阿柴啦」
 
-![](./img/2019-10-03-01-01-12.png)
+![](./img/2019-10-03-01-07-02.png)
 
 修改完成後，在 terminal 輸入 `git status` 查看狀態
 
