@@ -1,6 +1,6 @@
 # 挑戰 9 - 什麼是 PR (Pull Request)？ 來發送你的第一個 PR 吧
 
-## 貢獻開源專案 Contritbute to Open Source Project
+## 貢獻開源專案 Contribute to Open Source Project
 
 1. 遇到問題的時候可以開 Issue
 2. 原作者覺得 ok 之後，你就 fork 一份 Repository 到自己的 github
